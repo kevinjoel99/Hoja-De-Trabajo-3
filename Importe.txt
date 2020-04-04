@@ -1,0 +1,8 @@
+1 - Modelo A	2 - Modelo B
+1 - Color Blanco	2 - Color Metalizado	3 - Otro Color
+
+Modelo: 2
+Color: 1
+Edad Del Conductor: 18
+Costo De Importe: 375
+
